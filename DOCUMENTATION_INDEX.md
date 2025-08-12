@@ -12,12 +12,15 @@ This project includes comprehensive documentation organized by purpose and audie
 | Document | Audience | Purpose | Time to Read |
 |----------|----------|---------|--------------|
 | **[CLAUDE.md](CLAUDE.md)** | Claude Code users | Essential commands and architecture overview | 5 min |
-| **[PROJECT_INDEX.md](PROJECT_INDEX.md)** | All users | Original comprehensive project overview | 10 min |
+| **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** | All users | Essential commands and instant reference | 2 min |
+| **[STARTUP.md](STARTUP.md)** | Session managers | Best session initiation practices | 8 min |
+| **[SHUTDOWN.md](SHUTDOWN.md)** | Session managers | Professional session ending procedures | 10 min |
 
-### For First-Time Setup
-- **Quick Start:** See [KNOWLEDGE_BASE.md#quick-start-guide](KNOWLEDGE_BASE.md#quick-start-guide)
-- **Prerequisites:** See [PROJECT_INDEX.md#prerequisites](PROJECT_INDEX.md#prerequisites)
-- **Installation:** See [PROJECT_INDEX.md#installation](PROJECT_INDEX.md#installation)
+### For First-Time Setup & Session Management
+- **System Startup:** [STARTUP.md](STARTUP.md) - Complete session initiation guide
+- **Session Management:** [SESSION_MANAGEMENT.md](SESSION_MANAGEMENT.md) - Comprehensive session procedures  
+- **Quick Commands:** [QUICK_REFERENCE.md](QUICK_REFERENCE.md) - Essential commands reference
+- **Session Ending:** [SHUTDOWN.md](SHUTDOWN.md) - Professional session conclusion
 
 ---
 
@@ -126,13 +129,16 @@ This project includes comprehensive documentation organized by purpose and audie
 ## 🎯 Documentation by Audience
 
 ### For Claude Code Users
-**Start Here:** [CLAUDE.md](CLAUDE.md)
-**Next:** [KNOWLEDGE_BASE.md#quick-start-guide](KNOWLEDGE_BASE.md#quick-start-guide)
+**Start Here:** [STARTUP.md](STARTUP.md) - Session initialization
+**Quick Ref:** [QUICK_REFERENCE.md](QUICK_REFERENCE.md) - Essential commands
+**Deep Dive:** [SESSION_MANAGEMENT.md](SESSION_MANAGEMENT.md) - Complete workflows
+**End Session:** [SHUTDOWN.md](SHUTDOWN.md) - Professional conclusion
 
 **Key Topics:**
-- Essential commands and usage patterns
-- Project architecture overview
-- Development workflow integration
+- Systematic session startup and shutdown procedures
+- Essential commands and troubleshooting
+- Professional development workflow integration
+- Quality assurance and work preservation
 
 ### For Developers & Contributors
 **Start Here:** [ARCHITECTURE.md](ARCHITECTURE.md)
@@ -183,9 +189,10 @@ KNOWLEDGE_BASE.md (Development & Operations)
 3. [ARCHITECTURE.md](ARCHITECTURE.md) → Deep architectural understanding
 
 **"I want to use the system"**
-1. [CLAUDE.md#essential-commands](CLAUDE.md#essential-commands) → Quick start
-2. [KNOWLEDGE_BASE.md#quick-start-guide](KNOWLEDGE_BASE.md#quick-start-guide) → Setup
-3. [KNOWLEDGE_BASE.md#troubleshooting-guide](KNOWLEDGE_BASE.md#troubleshooting-guide) → Problem solving
+1. [STARTUP.md](STARTUP.md) → Professional session initialization
+2. [QUICK_REFERENCE.md](QUICK_REFERENCE.md) → Essential commands and patterns
+3. [SESSION_MANAGEMENT.md](SESSION_MANAGEMENT.md) → Complete workflow procedures
+4. [SHUTDOWN.md](SHUTDOWN.md) → Professional session conclusion
 
 **"I want to develop/extend the system"**
 1. [ARCHITECTURE.md](ARCHITECTURE.md) → Understand design
