@@ -301,10 +301,10 @@ We welcome contributions to this cutting-edge research project:
 If you use this work in your research, please cite:
 
 ```bibtex
-@software{mathematical_federation_2024,
+@software{mathematical_federation_2025,
   title={10-Node Mathematical Federation System: Distributed AI for Collaborative Mathematical Reasoning},
   author={[Author Name]},
-  year={2024},
+  year={2025},
   url={[Repository URL]},
   note={Pioneering research into federated AI mathematical reasoning}
 }
@@ -337,4 +337,4 @@ Special recognition to the mathematical competition community and AI safety rese
 
 ---
 
-*Generated with ❤️ by the Mathematical Federation Research Team*
+*Generated with ❤️ by the k3ith.AI and the Cocoa AI Research Team*
